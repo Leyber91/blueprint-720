@@ -5,8 +5,8 @@
   "start_url": "/blueprint-720/",
   "scope": "/blueprint-720/",
   "display": "standalone",
-  "background_color": "#f7f7f5",
-  "theme_color": "#4a3aa7",
+  "background_color": "#07080c",
+  "theme_color": "#07080c",
   "icons": [
     {
       "src": "icons/icon-192.png",
